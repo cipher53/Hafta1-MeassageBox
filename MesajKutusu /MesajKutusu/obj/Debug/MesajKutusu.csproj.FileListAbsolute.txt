@@ -1,0 +1,10 @@
+C:\Users\fatihzahidgenc\source\repos\MesajKutusu\MesajKutusu\bin\Debug\MesajKutusu.exe.config
+C:\Users\fatihzahidgenc\source\repos\MesajKutusu\MesajKutusu\bin\Debug\MesajKutusu.exe
+C:\Users\fatihzahidgenc\source\repos\MesajKutusu\MesajKutusu\bin\Debug\MesajKutusu.pdb
+C:\Users\fatihzahidgenc\source\repos\MesajKutusu\MesajKutusu\obj\Debug\MesajKutusu.csproj.AssemblyReference.cache
+C:\Users\fatihzahidgenc\source\repos\MesajKutusu\MesajKutusu\obj\Debug\MesajKutusu.Form1.resources
+C:\Users\fatihzahidgenc\source\repos\MesajKutusu\MesajKutusu\obj\Debug\MesajKutusu.Properties.Resources.resources
+C:\Users\fatihzahidgenc\source\repos\MesajKutusu\MesajKutusu\obj\Debug\MesajKutusu.csproj.GenerateResource.cache
+C:\Users\fatihzahidgenc\source\repos\MesajKutusu\MesajKutusu\obj\Debug\MesajKutusu.csproj.CoreCompileInputs.cache
+C:\Users\fatihzahidgenc\source\repos\MesajKutusu\MesajKutusu\obj\Debug\MesajKutusu.exe
+C:\Users\fatihzahidgenc\source\repos\MesajKutusu\MesajKutusu\obj\Debug\MesajKutusu.pdb
